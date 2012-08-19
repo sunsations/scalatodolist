@@ -1,7 +1,11 @@
 logs
+nothing added to commit but untracked files present (use "git add" to track)
 project/project
 project/target
 target
 tmp
 .history
 dist
+.classpath
+.project
+.settings/
